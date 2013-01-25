@@ -1,0 +1,20 @@
+{
+    "name": "vamsiikrishna/when",
+    "description": "Date/Calendar recursion library",
+    "keywords": ["date", "recursion", "calendar"],
+    "homepage": "http://github.com/vamsiikrishna/when",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Tom Planer",
+            "email": "tplaner@gmail.com",
+            "homepage": "https://github.com/tplaner"
+        }
+    ],
+    "require": {
+        "php": ">=5.2.0"
+    },
+    "autoload": {
+        "classmap": ["src"]
+    }
+}
